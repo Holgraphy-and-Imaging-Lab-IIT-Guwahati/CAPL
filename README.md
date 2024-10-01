@@ -1,5 +1,5 @@
 # CAPL
-This is the Git repositiory for the program 'CNN assisted PSF localization (CAPL)'
+This is the Git repositiory for the program 'CNN assisted PSF localization (CAPL)' based on the paper Neural Network assisted localization of clustered point spread functions in Single Molecule Localization Microscopy
 
 ## Setting up
 
