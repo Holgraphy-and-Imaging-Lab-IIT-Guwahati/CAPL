@@ -9,11 +9,11 @@ If you are on a later version, give it a try!
 
 I would suggest you use [Anaconda](https://www.anaconda.com/download/success) / Miniconda and set up a virtual environment as:
 
-- conda create -n "myenv" python=3.8.8 # replace "myenv" with your desired name.
+- ```conda create -n "myenv" python=3.8.8``` # replace "myenv" with your desired name.
 
 After setting up the virtual environment, you can install the dependencies as:
 
-- pip install -r requirements.txt
+- ```pip install -r requirements.txt```
 
 - Additionally you will need to set up [Fiji](https://imagej.net/software/fiji/downloads) / ImageJ and install the [ThunderSTORM](https://github.com/zitmen/thunderstorm) plugin.
 
